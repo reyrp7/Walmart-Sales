@@ -24,9 +24,8 @@ Special thanks to the original author for making this dataset publicly available
 ## Excel Skills Used
 
 ### Data Cleaning
-- Remove Duplicates
-- TRIM
-- Text to Columns
+- Numerical Formatting
+- Find and Replace
 
 ### Analysis
 - Pivot Tables
