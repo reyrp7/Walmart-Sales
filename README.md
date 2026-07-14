@@ -1,5 +1,8 @@
 # Walmart-Sales-Dashboard
 
+### DISCLAIMER
+This is an educational portfolio project created using a publicly available Walmart sales dataset from Kaggle. It is not affiliated with or endorsed by Walmart.
+
 ## About This Project
 
 Hi! My name is Reynard, and this is my first Microsoft Excel portfolio project.
