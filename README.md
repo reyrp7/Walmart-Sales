@@ -28,16 +28,16 @@ Special thanks to the original author for making this dataset publicly available
 ### Data Cleaning
 - Numerical Formatting
 - Find and Replace
+- Date Cleaning (DMY --> MDY)
 
 ### Analysis
 - Pivot Tables
-- SUMIFS
+- Linking Cells to Dashboard KPI Values
 - XLOOKUP
 
 ### Visualization
 - Pivot Charts
 - Slicers
-- Conditional Formatting
 - KPI Cards
 
 ## Project Workflow
@@ -50,7 +50,7 @@ Special thanks to the original author for making this dataset publicly available
 7. Answer critical questions
 
 ## Dashboard Preview
-(TBA)
+
 
 ## Key Insights
 (TBA)
