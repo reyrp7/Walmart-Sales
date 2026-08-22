@@ -50,6 +50,7 @@ Special thanks to the original author for making this dataset publicly available
 7. Answer critical questions
 
 ## Dashboard Preview
+<img width="1280" height="720" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/5b89c43d-6ed0-4e20-9e50-1df2c57e5e77" />
 
 
 ## Key Insights
