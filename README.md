@@ -52,9 +52,19 @@ Special thanks to the original author for making this dataset publicly available
 ## Dashboard Preview
 <img width="1280" height="720" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/5b89c43d-6ed0-4e20-9e50-1df2c57e5e77" />
 
+Interactive Dashboard:
+- Store, holiday, and year slicers.
+- Year/date timeline.
+- Dynamic KPI cards linked with slicers.
 
 ## Key Insights
-(TBA)
+1) Sales appear to spike at the end of each year.
+2) Store 20 performed the best, having around 301 million dollars in sales over the course of 2 years.
+3) Holiday weeks contributed about 8% of total sales.
+4) There seems to be a weak positive correlation between fuel prices and sales.
+5) The average weekly sales of all stores is around 1.05 million dollars.
 
 ## Files
-(TBA)
+[Walmart_Sales.csv](https://github.com/user-attachments/files/31326299/Walmart_Sales.csv) - Original Dataset
+
+[Walmart_Sales_Analysis_Dashboard.xlsx](https://github.com/user-attachments/files/31326283/Walmart_Sales_Analysis_Dashboard.xlsx) - Cleaned Dataset and Final Interactive Dashboard
